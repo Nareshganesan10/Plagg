@@ -1,3 +1,3 @@
 # Plagg
 
-Django Application for Plagerism Detection.
+Django Application for Plagarism Detection.
